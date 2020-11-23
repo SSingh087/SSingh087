@@ -1,4 +1,7 @@
 # Hi there 🌌
+🔭 I’m currently working on **Gravitational Lensing**
+
+👯 I’m looking to collaborate on **Cosmology using Gravitaional Waves**
 
 📫 shashwat98singh@gmail.com
 
@@ -9,17 +12,12 @@ For details follow: https://github.com/SSingh087/seq-pred
 
 ## Merging Galaxies 
 
-![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/120_3_1.gif)![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/120_3_12.gif)![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/120_3_5.gif)
-
-![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/h60_12.gif)![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/t60_12.gif)
-
+![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/120_3_1.gif)
 ## Lensed Galaxies 
 ![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/cH60_12.gif)
 ![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/cT60_12.gif)
-![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/mfH60_2.gif)
-![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/mfT60_2.gif)
 
-🔭 I’m currently working on **Gravitational Lensing**
+
 <!--
 **SSingh087/SSingh087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
