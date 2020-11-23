@@ -1,4 +1,7 @@
 ### Hi there 👋
+📫 shashwat98singh@gmail.com
+
+🌐 https://bosexload.wixsite.com/sha98
 
 <!--
 **SSingh087/SSingh087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
