@@ -9,7 +9,7 @@
 
 🌐 https://bosexload.wixsite.com/sha98 (*Last update - Jan 2020*)
 
-Visit our collaboration Bose.X at https://www.bosex.org/
+Visit our collaboration **Bose.X** at https://www.bosex.org/
 
 ## Most recent work is updated here:
 For details follow: https://github.com/SSingh087/seq-pred
