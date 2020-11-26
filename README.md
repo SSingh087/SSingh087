@@ -1,6 +1,6 @@
 # Hi there 🌌
 <img src="https://github.com/SSingh087/SSingh087/blob/main/20200911_214859.jpg" width="200" height="200" align="right"> 
-<img src="https://github.com/SSingh087/SSingh087/blob/main/Images/logo.png" width="200" height="200" align="right"> 
+
 
 🔭 I’m currently working on **Gravitational Lensing**
 
@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github.com/SSingh087/SSingh087/blob/main/Images/logo.png" width="200" height="200" align="right"> 
 -->
