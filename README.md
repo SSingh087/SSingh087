@@ -15,14 +15,6 @@ Visit our collaboration **Bose.X** at https://www.bosex.org/
 ## Most recent work is updated here:
 For details follow: https://github.com/SSingh087/seq-pred
 
-## Merging Galaxies 
-
-![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/120_3_1.gif)
-## Lensed Galaxies 
-![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/cH60_12.gif)
-![Alt Text](https://github.com/SSingh087/SSingh087/blob/main/Images/cT60_12.gif)
-
-
 <!--
 **SSingh087/SSingh087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
