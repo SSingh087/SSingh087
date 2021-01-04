@@ -8,7 +8,7 @@
 Visit our collaboration **Bose.X** at https://www.bosex.org/
 
 ## Most recent work is updated here:
-For details follow: https://github.com/SSingh087/seq-pred
+For details follow: https://github.com/SSingh087/Primary-res-lensGW/
 
 <!--
 **SSingh087/SSingh087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
