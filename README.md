@@ -5,9 +5,8 @@
 
 🌐 https://bosexload.wixsite.com/sha98 (*Last update - Jan 2020*)
 
-Visit our collaboration **Bose.X** at https://www.bosex.org/
+Visit our group **Bose.X** at https://www.bosex.org/
 
-## Most recent work is updated here:
 <!--
 **SSingh087/SSingh087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
