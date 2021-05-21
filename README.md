@@ -1,9 +1,9 @@
 # Hi there 🌌
 <img src="https://github.com/SSingh087/SSingh087/blob/main/20200911_214859.jpg" width="200" height="200" align="right"> 
 
-📫 shashwat98singh@gmail.com
+<!--📫 shashwat98singh@gmail.com
 
-🌐 https://bosexload.wixsite.com/sha98 (*Last update - Jan 2020*)
+🌐 https://bosexload.wixsite.com/sha98 (*Last update - Jan 2020*)-->
 
 Visit our group **Bose.X** at https://www.bosex.org/
 
