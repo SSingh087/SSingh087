@@ -7,8 +7,6 @@
 
 Visit our group **Bose.X** at https://www.bosex.org/
 
-Support us at: https://piblitz.com/pi/TRIAC-33922/admire/
-
 <!--
 **SSingh087/SSingh087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
